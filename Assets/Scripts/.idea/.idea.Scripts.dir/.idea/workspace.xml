@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f07323cc-f4fb-428d-a99c-870eca584456" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Jeremy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Animations/MaleCharacterAnimation.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Animations/MaleCharacterAnimation.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Docs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Docs/MaleCharacterAnimation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Docs/MaleCharacterAnimation.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Materials/MaleCharacterMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Materials/MaleCharacterMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Materials/MaleCharacter_Normal.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Materials/MaleCharacter_Normal.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Materials/MaleCharcter_Anime.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Materials/MaleCharcter_Anime.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Model/Male Character.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Model/Male Character.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Prefab/MaleCharacterAnime.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Prefab/MaleCharacterAnime.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Prefab/MaleCharacterNormal.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Prefab/MaleCharacterNormal.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Scenes/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Scenes/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Texture/MaleCharacter_Color.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Texture/MaleCharacter_Color.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Texture/MaleCharacter_NormalMap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeremy/Texture/MaleCharacter_NormalMap.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/DemoScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/DemoScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Materials/DummyMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Materials/DummyMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Materials/FloorMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Materials/FloorMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Models/FemaleDummy.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Models/FemaleDummy.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Models/MaleDummy.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Models/MaleDummy.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Prefabs/FemaleDummy.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Prefabs/FemaleDummy.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Prefabs/MaleDummy.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Prefabs/MaleDummy.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Readme.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/SourceFiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/SourceFiles/Blender Source Files.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/SourceFiles/Blender Source Files.zip.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Textures/DummyTexture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kevin Iglesias/3DCharacterDummy/Textures/DummyTexture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materials/Astronaut.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materials/Astronaut.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materials/Astronaut_bagpack.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materials/Astronaut_bagpack.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/among-us-character.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/among-us-character.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/astronaut 1.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/astronaut 1.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/astronaut.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/astronaut.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New Terrain 1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New Terrain 1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New Terrain 2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New Terrain 2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New Terrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New Terrain.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Movement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Texture/Astronaut_Backpack.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Texture/Astronaut_Backpack.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-skield.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-skield.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HideMap.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HideMap.cs" />
+        <option value="$PROJECT_DIR$/Movement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k468H07lQKc0yF2vkhpKHpY05p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f07323cc-f4fb-428d-a99c-870eca584456" name="Default Changelist" comment="" />
+      <created>1604947358362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604947358362</updated>
+      <workItem from="1604947364017" duration="5317000" />
+      <workItem from="1605031330135" duration="976000" />
+      <workItem from="1605048674896" duration="1773000" />
+      <workItem from="1605054940081" duration="325000" />
+      <workItem from="1605127571596" duration="2974000" />
+      <workItem from="1605286303763" duration="676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="64" key="SettingsEditor" timestamp="1604948018048">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="221" y="64" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1604948018048" />
+  </component>
+</project>
