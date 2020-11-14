@@ -7,9 +7,6 @@ public class Movement : MonoBehaviour {
     public float playerSpeed = 8;
     private GameObject astronaut;
     private Rigidbody rigidBody;
-
-    private float smooth = 90.0f;
-
     private bool isMoving;
 
     private void Start() {
