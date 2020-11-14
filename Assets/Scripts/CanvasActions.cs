@@ -14,8 +14,8 @@ public class CanvasActions : MonoBehaviour {
 	    this.miniMap = this.gameObject.transform.Find("Minimap").gameObject;
 	    this.reportButton = this.gameObject.transform.Find("ReportButton").gameObject;
         this.showMap = false;
-        GameObject reportButtonInstance = (GameObject)Instantiate(this.reportButton);
-        reportButtonInstance.GetComponent<Button>().onClick.AddListener(() => { this.OnReportButtonClicked(); });
+        reportButton.GetComponent<Button>().onClick.AddListener(() => { Debug.unityLogger.Log("You have clicked the button!");
+	        ; });
     }
 
     // Update is called once per frame
@@ -32,6 +32,5 @@ public class CanvasActions : MonoBehaviour {
 
 	void OnReportButtonClicked()
 	{
-		Debug.unityLogger.Log("You have clicked the button!");
 	}
 }
