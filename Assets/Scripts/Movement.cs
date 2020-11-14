@@ -8,6 +8,8 @@ public class Movement : MonoBehaviour {
     private GameObject astronaut;
     private Rigidbody rigidBody;
 
+    private float smooth = 90.0f;
+
     private bool isMoving;
 
     private void Start() {
@@ -36,7 +38,23 @@ public class Movement : MonoBehaviour {
         rotation.x = 0;
         rotation.z = 0;
         astronaut.transform.rotation = rotation;
- 
+        
+        if (isMoving) {
+
+            if (verticalAxis > 0) {
+                astronaut.transform.Rotate(0.0f, 0.0f, 0.0f, Space.Self);
+            }
+            else if (verticalAxis < 0) {
+                astronaut.transform.Rotate(0.0f, 180.0f, 0.0f, Space.Self);
+            }
+            else if (horizontalAxis < 0) {
+                astronaut.transform.Rotate(0.0f, -90.0f, 0.0f, Space.Self);
+            }
+            else if (horizontalAxis > 0) {
+                astronaut.transform.Rotate(0.0f, 90.0f, 0.0f, Space.Self);
+            }
+        }
+
         //this is the direction in the world space we want to move:
         var desiredMoveDirection = forward * verticalAxis + right * horizontalAxis;
 
