@@ -26,6 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../Library/PackageCache/com.unity.multiplayer-hlapi@1.0.6/Runtime/NetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Interactions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CameraRotation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Movement.cs" root0="SKIP_HIGHLIGHTING" />
@@ -37,11 +38,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../ReportAction.cs" />
-        <option value="$PROJECT_DIR$/Movement.cs" />
         <option value="$PROJECT_DIR$/ReportAction.cs" />
         <option value="$PROJECT_DIR$/HideMap.cs" />
-        <option value="$PROJECT_DIR$/ShowReportButton.cs" />
         <option value="$PROJECT_DIR$/CanvasActions.cs" />
+        <option value="$PROJECT_DIR$/Movement.cs" />
+        <option value="$PROJECT_DIR$/ShowReportButton.cs" />
       </list>
     </option>
   </component>

@@ -7,7 +7,7 @@ public class ShowReportButton : MonoBehaviour
     private GameObject reportButton;
     void Start()
     {
-        reportButton = GameObject.Find("PlayerCanvas")
+        reportButton = gameObject.transform.Find("PlayerCanvas")
             .gameObject.transform.Find("ReportButton").gameObject;
     }
     

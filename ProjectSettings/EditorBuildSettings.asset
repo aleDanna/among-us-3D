@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/the-skield.unity
+    guid: c50d88be09e4b4d34978efc47926cbed
   m_configObjects: {}
