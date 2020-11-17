@@ -12,7 +12,7 @@ public class Movement : NetworkBehaviour {
 
     private void Start() {
         if (this.isLocalPlayer) {
-            astronaut = this.gameObject.transform.Find("astronaut").gameObject;
+            astronaut = this.gameObject.transform.Find("Player").gameObject.transform.Find("astronaut").gameObject;
             rigidBody = this.gameObject.GetComponent<Rigidbody>();
         }
     }

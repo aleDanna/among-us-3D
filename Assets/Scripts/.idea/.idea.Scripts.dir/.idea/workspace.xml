@@ -41,8 +41,8 @@
         <option value="$PROJECT_DIR$/ReportAction.cs" />
         <option value="$PROJECT_DIR$/HideMap.cs" />
         <option value="$PROJECT_DIR$/CanvasActions.cs" />
-        <option value="$PROJECT_DIR$/Movement.cs" />
         <option value="$PROJECT_DIR$/ShowReportButton.cs" />
+        <option value="$PROJECT_DIR$/Movement.cs" />
       </list>
     </option>
   </component>
