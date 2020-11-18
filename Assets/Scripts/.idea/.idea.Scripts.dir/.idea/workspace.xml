@@ -11,11 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f07323cc-f4fb-428d-a99c-870eca584456" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../GameModels/player 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameModels/player 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameModels/player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../GameModels/player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameModels/player.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../GameModels/player.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Scenes/the-skield.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/the-skield.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HideMap.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HideMap.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Movement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CameraRotation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CameraRotation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movement.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +31,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../Library/PackageCache/com.unity.multiplayer-hlapi@1.0.6/Runtime/NetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Interactions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CameraRotation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Movement.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CanvasActions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ReportAction.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ShowReportButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Library/PackageCache/com.unity.multiplayer-hlapi@1.0.6/Runtime/NetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CameraFollow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interactions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewPointer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CanvasActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReportAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ShowReportButton.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -43,6 +50,14 @@
         <option value="$PROJECT_DIR$/CanvasActions.cs" />
         <option value="$PROJECT_DIR$/ShowReportButton.cs" />
         <option value="$PROJECT_DIR$/Movement.cs" />
+        <option value="$PROJECT_DIR$/Singleton.cs" />
+        <option value="$PROJECT_DIR$/GameManager.cs" />
+        <option value="$PROJECT_DIR$/../ViewPointer.cs" />
+        <option value="$PROJECT_DIR$/ViewPointer.cs" />
+        <option value="$PROJECT_DIR$/CameraRotation.cs" />
+        <option value="$PROJECT_DIR$/CameraScript.cs" />
+        <option value="$PROJECT_DIR$/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/PlayerScript.cs" />
       </list>
     </option>
   </component>
@@ -73,6 +88,7 @@
       <workItem from="1605127571596" duration="2974000" />
       <workItem from="1605286303763" duration="2782000" />
       <workItem from="1605368768526" duration="6387000" />
+      <workItem from="1605659333522" duration="11436000" />
     </task>
     <servers />
   </component>
